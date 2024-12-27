@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 export  function formatCurrency(quantity:number ) {
   return new Intl.NumberFormat('es-ES',{
