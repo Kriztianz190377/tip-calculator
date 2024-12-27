@@ -2,5 +2,4 @@
 
 ## Tailwind Css
 
-
-'''tip-calculator.ccldev.com'''
+[tip-calculator.ccldev.com]
